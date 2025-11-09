@@ -1,0 +1,13 @@
+package.json
+main.js
+preload.js
+/public/index.html
+/src/index.jsx
+/src/App.jsx
+/src/components/Player.jsx
+/src/components/ChannelList.jsx
+/src/components/ArchiveList.jsx
+/src/components/EPG.jsx
+/src/styles.css
+/src/locales/ru.json
+.github/workflows/build.yml
